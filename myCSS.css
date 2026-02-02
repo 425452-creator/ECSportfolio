@@ -29,6 +29,7 @@ body {
 	width: 100%;
 	height: 60px;
 	text-align: center;
+	text-color: #C36548;
 	font: Palatino, "URW Palladio L", serif;
 }
 .content {
@@ -54,5 +55,12 @@ body {
 	float: left;
 	width: 100%;
 	height: 50px;
+	text-color: #C36548;
 	text-align: center;
+}
+a:link {
+     color: #C36548;
+}
+a:visited {
+     color: #C36548;
 }
