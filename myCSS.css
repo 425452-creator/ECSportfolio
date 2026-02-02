@@ -19,7 +19,6 @@ body {
 	width: 100%;
 	height: 80px;
 	font: "Apple Chancery", cursive;
-	
 }
 .nav {
 	background: #2A506B;
@@ -63,4 +62,7 @@ a:link {
 }
 a:visited {
      color: #C36548;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
