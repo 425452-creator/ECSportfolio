@@ -36,9 +36,13 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 	text-color: #000000;
 	font: Palatino, "URW Palladio L", serif;
+}
+
+img{
+	align: center;
 }
 .ecscont {
 	background: #7E603B;
